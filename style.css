@@ -1,0 +1,40 @@
+.navbar-default {
+    background-color: teal !important;
+    background-image: none;
+    background-repeat: no-repeat;
+   }
+.navbar-custom{
+    font-size: 100px;
+    color: white !important ; 
+}
+h1{
+    color: teal;
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+
+}
+h2{
+    color: teal;
+    padding-left: 10px;
+
+}
+
+p{
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+h3{
+    color: teal;
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    
+
+}
+
+
